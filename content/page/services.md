@@ -1,0 +1,31 @@
+---
+title: "Services"
+date: 2017-07-29T23:52:31+02:00
+subtitle: "What we do"
+---
+## Consulting
+We provide on-site and remote consulting to clients that wish to work with Free and Open Source technologies for the following roles:
+
+- Project Manager
+- Architect
+- Team lead
+- Developper
+- Tester
+
+## Support
+We provide on-site and remote support for Free and Open Source technologies, even for those we do not work with yet.  
+Given that new softwares and products are created all the time, we ensure we are always competent enough to support new products on client requests.
+
+## Developpement
+We provide on-site and remote developpment to build new products or adapt/fork existing ones.  
+We focus on Java and Golang but we develop in all the big languages.  
+If you use a niche language, we'll be happy to give you a personal quote!
+
+## Custom request
+Whatever your need is, we'll be happy to find a way to support your needs and provide you with a custom quote.  
+
+## Closed Source and Proprietary solutions
+As it is not always possible to rely solely on Open Source products, we also support closed source and proprietary products.  
+Visit our dedicated website for more information: [KamaxIT](https://www.kamaxit.com/)
+
+[Get in touch]({{< ref "page/contact.md" >}}) and tell us what you need and we'll get back to you!

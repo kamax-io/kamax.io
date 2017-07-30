@@ -1,0 +1,39 @@
+baseURL = "https://www.kamax.io"
+languageCode = "en-us"
+title = "Kamax"
+theme = "beautifulhugo"
+
+[Params]
+    logo = "img/logo-white-black-borders.png"
+    favicon = "img/favicon.ico"
+    subtitle = "European Open Source IT Provider"
+    comments = false
+    rss = false
+
+[Author]
+    name = "Kamax.io"
+    github = "kamax-io"
+
+[[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/page/about/"
+    weight = 1
+
+[[menu.main]]
+    identifier = "services"
+    name = "Services"
+    url = "/page/services/"
+    weight = 2
+
+[[menu.main]]
+    identifier = "technologies"
+    name = "Technologies"
+    url = "/page/technologies/"
+    weight = 3
+
+[[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/page/contact/"
+    weight = 4
