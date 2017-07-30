@@ -1,6 +1,5 @@
 ---
 title: "Contact"
-date: 2017-07-30T00:00:34+02:00
 subtitle: "Where to find us"
 ---
 You can reach us using the following means:

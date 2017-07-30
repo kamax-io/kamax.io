@@ -1,6 +1,5 @@
 ---
 title: "Services"
-date: 2017-07-29T23:52:31+02:00
 subtitle: "What we do"
 ---
 ## Consulting

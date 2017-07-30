@@ -1,6 +1,5 @@
 ---
 title: "About Us"
-date: 2017-07-29T23:34:32+02:00
 subtitle: "Who we are"
 ---
 We believe in an IT world where Free and Open Source products replace proprietary ones, reducing overall costs, removing licensing costs and allowing people and corporations to choose suppliers for their quality support and services, instead of mandatory actors due to closed source technologies.

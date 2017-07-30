@@ -1,6 +1,5 @@
 ---
 title: "Technologies"
-date: 2017-07-29T23:53:55+02:00
 subtitle: "How we do it"
 ---
 We build products using the following main technologies/products:
