@@ -7,6 +7,6 @@ We believe in an IT world where Free and Open Source products replace proprietar
 
 Around this vision, we created Kamax, a European business offering real alternatives to non-free and non-open products, designing them from scratch, migrating to them or simply adding them to an existing solution.
 
-We are actively invested in the Open Source world, creating products ourselves and contribuing to existing ones. We deliver innovative products and services all around the world and support a wide range of existing products and services.
+We are actively invested in the Open Source world, creating products ourselves and contributing to existing ones. We deliver innovative products and services all around the world and support a wide range of existing products and services.
 
 [Get in touch!]({{< ref "page/contact.md" >}})

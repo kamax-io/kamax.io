@@ -9,15 +9,15 @@ We provide on-site and remote consulting to clients that wish to work with Free 
 - Project Manager
 - Architect
 - Team lead
-- Developper
+- Developer
 - Tester
 
 ## Support
 We provide on-site and remote support for Free and Open Source technologies, even for those we do not work with yet.  
 Given that new softwares and products are created all the time, we ensure we are always competent enough to support new products on client requests.
 
-## Developpement
-We provide on-site and remote developpment to build new products or adapt/fork existing ones.  
+## Development
+We provide on-site and remote development to build new products or adapt/fork existing ones.  
 We focus on Java and Golang but we develop in all the big languages.  
 If you use a niche language, we'll be happy to give you a personal quote!
 
