@@ -16,6 +16,7 @@ We build products using the following main technologies/products:
 - [VirtualBox](https://www.virtualbox.org/) - Hypervisor
 - [Samba](https://www.samba.org/) - Corporate directory service
 - [Nextcloud](https://nextcloud.com/) - Cloud service for Files, Contacts, Calendars, etc.
+- [Liferay](https://www.liferay.com/) - Enterprise Portal and Content Management
 - [Matrix](https://matrix.org/) - Instant Messaging, Voice and Video calls
 - [LibreOffice](https://www.libreoffice.org/) - Office suite
 - And many others...
