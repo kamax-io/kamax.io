@@ -6,7 +6,7 @@ theme = "beautifulhugo"
 [Params]
     logo = "img/logo-white-black-borders.png"
     favicon = "img/favicon.ico"
-    subtitle = "European Open Source IT Provider"
+    subtitle = "European Libre IT Provider"
     comments = false
     rss = false
 
