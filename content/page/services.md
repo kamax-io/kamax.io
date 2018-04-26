@@ -24,6 +24,5 @@ Whatever your need is, we'll be happy to find a way to support your needs and pr
 
 ## Closed Source and Proprietary solutions
 As it is not always possible to rely solely on Open Source products, we also support closed source and proprietary products.  
-Visit our dedicated website for more information: [KamaxIT](https://www.kamaxit.com/)
 
 [Get in touch]({{< ref "page/contact.md" >}}) and tell us what you need and we'll get back to you!
