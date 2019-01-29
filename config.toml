@@ -12,6 +12,7 @@ theme = "beautifulhugo"
 
 [Author]
     name = "Kamax.io"
+    gitlab = "kamax-io"
     github = "kamax-io"
 
 [[menu.main]]
