@@ -1,7 +1,7 @@
 baseURL = "https://www.kamax.io"
 languageCode = "en-us"
 title = "Kamax"
-theme = "beautifulhugo"
+theme = "kamax-io"
 
 [Params]
     logo = "img/logo-white-black-borders.png"
@@ -9,6 +9,7 @@ theme = "beautifulhugo"
     subtitle = "European Libre IT Provider"
     comments = false
     rss = false
+    selfHosted = true
 
 [Author]
     name = "Kamax.io"
