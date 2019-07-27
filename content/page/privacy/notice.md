@@ -1,8 +1,9 @@
 ---
 Title: "Privacy Notice"
+Date: "2019-07-26"
 ---
 
-This document is about your rights and all you need to know related to our privacy practices.
+This document is about your rights and all you need to know regarding our privacy practices.
 
 This document tells you:
 
@@ -19,7 +20,7 @@ This document is tailored for the EU [General Data Protection Regulation (GDPR)]
 
 **You have rights as an individual. NEVER be afraid to use them, they exist to protect you.**
 
-We will tell you which rights you have, but **you should always educate yourself and double check what strangers tell you on the Internet**. To find out about your rights under GDPR from an independent source, visit the [website of your Data Protection Authority](https://ec.europa.eu/info/law/law-topic/data-protection/reform/what-are-data-protection-authorities-dpas_en?cookies=disabled).
+We will tell you which rights you have, but **you should always educate yourself and double check what strangers tell you**. To find out about your rights under GDPR from an independent source, visit the [website of your Data Protection Authority](https://ec.europa.eu/info/law/law-topic/data-protection/reform/what-are-data-protection-authorities-dpas_en?cookies=disabled).
 
 ## Who we are
 
@@ -65,7 +66,7 @@ Your personal data is **YOURS**, not ours. We consider that you lend us your dat
 
 Anyone is welcome to send us an information or data request. You do not have to be European for us to care, and we do not need the law to care. Whoever you are, whatever you are, we will handle your request just the same. **We are happy to help you be in charge of your data**.
 
-Because we are not interested in your personal data, or to even know who you are in the first place, we will only deal with the absolutely minimum that we need. If we no longer need some data, we will delete it. If we can use an alternative better suited to protect your privacy, we will do so proactively.
+Because we are not interested in your personal data who you are, we will only deal with the absolutely minimum that we need. If we no longer need some data, we will delete it. If we can use an alternative better suited to protect your privacy, we will do so proactively.
 
 We are also not interested into gathering data about you, directly or indirectly. The less data we have the better. We will not try to get data about you from other systems or services, unless that is how the service works. If we do, we will delete it as soon as we are done using it.
 
@@ -79,9 +80,9 @@ In the event that this organisation or any of its assets changes owner(s), we wi
 
 We do not collect anything. No tracking cookie, no tracking JavaScript, no contact form, no call to external domains. Nothing.
 
-We do not need to know anything about you to show you our website. Who you are is irrelevant for this content. We are equally not interested to know who you are to deliver it. We deliver the same service to everyone, in an equal manner.
+We do not need to know anything about you to show you our website. Who you are is irrelevant for this content. Equally, we do not need to know who you are to deliver it. We deliver the same service to everyone, in an equal manner.
 
-If a part of our website has a configurable feature that is to be remembered across requests, we will save it to the local storage of your browser. Those settings never contain more data than that setting name and the value you chose. We do not process that setting on our servers: it is never given to us.
+If a part of our website has a configurable feature that is to be remembered across requests, we will save it to the local storage of your browser. Those settings never contain more data than that setting name and the value you chose. We do not process that setting on our servers: it is never given to us. 
 
 If parts of our websites have different needs, they will have their own privacy notice. We will make it visually and technically clear that you are in another part of the website: a different layout, or different sub-domain, another colour theme, or anything else which is relevant. We may also combine any number of those.
 
@@ -130,16 +131,16 @@ Only authenticated and authorised individuals can use them, and have received a 
 
 If you are not happy with something we have done regarding your personal data, please tell us.
 
-**Do not be afraid to voice your concerns, and feel free to use your day-to-day way of speaking. Regardless of how we feel about it, we must treat you with fairness and transparency. This is fundamental to the law and our obligations towards us.**
+**Do not be afraid to voice your concerns, and feel free to use your day-to-day way of speaking. Regardless of how we feel about it, we must treat you with fairness and transparency. This is fundamental to the law and our obligations towards you.**
 
-If you feel we have not done right by you, even after telling us, you have the right to contact your Data Protection Authority based on your place of residence or work. You can find yours using [the official list](https://ec.europa.eu/info/law/law-topic/data-protection/reform/what-are-data-protection-authorities-dpas_en?cookies=disabled) found on the European Commision website.
+If you feel we have not done right by you, even after telling us, you have the right to contact your Data Protection Authority based on your place of residence or work. You can find yours using [the official list](https://ec.europa.eu/info/law/law-topic/data-protection/reform/what-are-data-protection-authorities-dpas_en?cookies=disabled) found on the European Commission website.
 
 You can also contact our Data Protection Authority directly. You will find their contact information on their website: [Commission nationale pour la protection des données (CNPD)](https://cnpd.public.lu/fr.html).
 
 ## Use our privacy notice as a template
 
-If you like how we have worded this document and would like to re-use it for your own services/website, you can find the Markdown source of it [in our Gitlab repository](https://gitlab.com/kamax-io/websites/www.kamax.io/blob/master/content/page/privacy/notice.md).
+If you like how we have worded this document and would like to re-use it for your own services / websites, you can find the Markdown source of it [in our Gitlab repository](https://gitlab.com/kamax-io/websites/www.kamax.io/blob/master/content/page/privacy/notice.md).
 
-The source file is licensed under CC0, equivalent to the public domain: you can do whatever you want with it, you never have to ask us and you can re-share it however way you want also.
+The source file is licensed under [Creative Commons CC0 1.0 Universal](/licenses/cc0.txt), equivalent to the public domain: you can do whatever you want with it, you never have to ask us and you can re-share it however way you want.
 
-**Spread the notice! Make sure individuals know their rights!**:
+**Spread the notice! Make sure individuals know their rights!**
