@@ -1,0 +1,24 @@
+image: debian:stable
+
+before_script:
+- apt-get update
+- mkdir ~/.ssh
+- cat "$SSH_KEY_FILE" > ~/.ssh/id_rsa
+- chmod 600 ~/.ssh/id_rsa
+
+files:
+  stage: build
+  script:
+  - apt-get install -y hugo
+  - hugo
+  artifacts:
+    paths:
+    - public
+
+toProd:
+  stage: deploy
+  script:
+  - apt-get install -y openssh-client rsync
+  - rsync -e "ssh -o StrictHostKeyChecking=no" --progress -r public $SSH_URI
+  only:
+  - master
