@@ -117,7 +117,7 @@ We do not have fixed retention periods for those services: we do not know in adv
 
 **If you include personal data of other individuals (us included) in your communication, this privacy notice will equally apply towards them, as they have the same rights as you do**. It is very likely that you will not be able to use some of your rights then: it could prevent those other individuals to use their own rights to access and control that personal data.
 
-If you request access to your data, we will simply give back to you what you sent, in the format you chose to sent it in. We will also provide any metadata associated with it in a common, machine-readable format, usually [CSV](https://en.wikipedia.org/wiki/Comma-separated_values) or [JSON](https://en.wikipedia.org/wiki/JSON).
+If you request access to your data, we will simply give back to you what you sent, in the format you chose to send it in. We will also provide any metadata associated with it in a common, machine-readable format, usually [CSV](https://en.wikipedia.org/wiki/Comma-separated_values) or [JSON](https://en.wikipedia.org/wiki/JSON).
 
 If you do not want us to have, store or simply process your personal data, do not send it to us - directly or indirectly.
 
