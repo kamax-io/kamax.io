@@ -1,6 +1,6 @@
 ---
 Title: "Privacy Notice"
-Date: "2019-07-26"
+Date: "2019-08-10"
 ---
 
 This document is about your rights and all you need to know regarding our privacy practices.
@@ -9,12 +9,13 @@ This document tells you:
 
 - Our legal identity and contact information
 - What information we collect about you
-- How and when we got it
-- What we do with it and for how long
+- When we collect those information
+- How we collect those information
+- What we do with the collected information
 - The legality of that processing
-- For how long we're keeping it
-- If we shared it with anyone, and when
-- What you can do if you feel we're not doing a good job at it
+- How long we are keeping what we collected
+- If and when we share what we collected
+- What you can do if you feel we are not handling your data properly
 
 This document is tailored for the EU [General Data Protection Regulation (GDPR)](https://ec.europa.eu/commission/priorities/justice-and-fundamental-rights/data-protection/2018-reform-eu-data-protection-rules_en?cookies=disabled).
 
@@ -22,31 +23,29 @@ This document is tailored for the EU [General Data Protection Regulation (GDPR)]
 
 We will tell you which rights you have, but **you should always educate yourself and double check what strangers tell you**. To find out about your rights under GDPR from an independent source, visit the [website of your Data Protection Authority](https://ec.europa.eu/info/law/law-topic/data-protection/reform/what-are-data-protection-authorities-dpas_en?cookies=disabled).
 
-## Who we are
+To be able to use your rights, you need to have the following information:
 
-To do be able to use your rights, you need to know at least who we are and where we are.
+## Who we are
 
 This is us:
 
 - Trade name: Kamax S.à r.l.
+- Also known as: Kamax, Kamax.io
 - [R.C.S. Number](https://www.lbr.lu/mjrcs): B198779
 
-This is our address:  
-Route d'Arlon, 14  
-8410 Steinfort  
-Luxembourg
+Our registered address is:
+
+- Route d'Arlon, 14  
+- 8410 Steinfort  
+- Luxembourg
 
 ## Who is responsible for your data
 
-To be able to use your rights, you need to know which legal entity is the Data Controller and the Data Processor.
-
-This is us also.
+Kamax is the Data Controller and Processor.
 
 ## How to contact us
 
-To be able to use your rights, you need to know how to contact us.
-
-For all your privacy needs, you can use our dedicated address: [legalmaster@kamax.io](mailto:legalmaster@kamax.io?subject=Privacy%20Contact).
+For all your privacy needs, you can use our dedicated Email address: [legalmaster@kamax.io](mailto:legalmaster@kamax.io?subject=Privacy%20Contact).
 
 **You have the right to contact us by any means you see fit that we give on this website, regardless of what we prefer you to use.  We take every request seriously. You do not have to sound smart when talking to us, we will treat you as the most important person in the room regardless.**
 
@@ -62,11 +61,11 @@ Privacy is a founding value for our organisation, and we want to ensure individu
 
 Laws are different in each country, and you might not be able to use GDPR rights as they do not apply to you, but still want to contact us or use our services. We will explain our mindset and our practices so you can make an informed choice.
 
-Your personal data is **YOURS**, not ours. We consider that you lend us your data in exchange of a service, not that you hand it over. **You have the right to access your data and rights to tell us how to use it, or to delete it.** Whatever your request, we will consider it. We are more than happy to follow our obligations towards what we believe should be a fundamental human right. **Your Data. Your rules. Always**.
+Your personal data is **YOURS**, not ours. We consider that you lend us your data in exchange for a service, not that you hand it over. **You have the right to access your data and rights to tell us how to use it, or to delete it.** Whatever your request, we will consider it. We are more than happy to follow our obligations towards what we believe should be a fundamental human right. **Your Data. Your rules. Always**.
 
 Anyone is welcome to send us an information or data request. You do not have to be European for us to care, and we do not need the law to care. Whoever you are, whatever you are, we will handle your request just the same. **We are happy to help you be in charge of your data**.
 
-Because we are not interested in your personal data who you are, we will only deal with the absolutely minimum that we need. If we no longer need some data, we will delete it. If we can use an alternative better suited to protect your privacy, we will do so proactively.
+Because we are not interested in your personal data, we will only deal with the absolutely minimum that we need. If we no longer need some data, we will delete it. If we can use an alternative that is better suited to protect your privacy, we will do so proactively.
 
 We are also not interested into gathering data about you, directly or indirectly. The less data we have the better. We will not try to get data about you from other systems or services, unless that is how the service works. If we do, we will delete it as soon as we are done using it.
 
@@ -82,7 +81,7 @@ We do not collect anything. No tracking cookie, no tracking JavaScript, no conta
 
 We do not need to know anything about you to show you our website. Who you are is irrelevant for this content. Equally, we do not need to know who you are to deliver it. We deliver the same service to everyone, in an equal manner.
 
-If a part of our website has a configurable feature that is to be remembered across requests, we will save it to the local storage of your browser. Those settings never contain more data than that setting name and the value you chose. We do not process that setting on our servers: it is never given to us. 
+If a part of our website has a configurable feature that is to be saved across requests, we will save it to the local storage of your browser. Those settings never contain more data than that setting name and the value you chose. We do not process that setting on our servers: it is never given to us.
 
 If parts of our websites have different needs, they will have their own privacy notice. We will make it visually and technically clear that you are in another part of the website: a different layout, or different sub-domain, another colour theme, or anything else which is relevant. We may also combine any number of those.
 
@@ -99,7 +98,7 @@ None of those are direct identifiers. The IP address is about your internet conn
 
 We collect this data for two purposes:
 
-- To keep ourselves and our users safe, we need to be able to detect pattern of malicious activity, and block the source of it. We generate statistics, trends and visualisation of that traffic to that end. For this, we use the IP address and HTTP Header.
+- To keep ourselves and our users safe, we need to be able to detect patterns of malicious activity, and block the source of it. We generate statistics, trends and visualisation of that traffic to that end. For this, we use the IP address and HTTP Header.
 - To keep ourselves reachable and visible, we need to know which browsers try to use our website and try if it will display correctly in them. For this, we use the HTTP Header.
 
 This data is not personal data to us: we simply cannot identify individuals with it alone. We do not collect any other information that could be used to that end.
@@ -111,15 +110,13 @@ In case another type of hosting is needed for a specific resource, per example f
 We provide contact services, like Email, that you can use to interact with us. These services are only accessible by using another service provider, or by connecting directly to them yourself. These services accept any kind of data, which you made the explicit choice to send for whatever intent you had.
 
 The lawful basis for that processing is: **Legitimate Interest**.  
-You want us to use the data you sent and made the explicit choice to send it.
+You made the explicit choice to send us the data, and you want us to use the data you sent.
 
 We do not have fixed retention periods for those services: we do not know in advance what will be sent to us and for how long we would need to keep it. In regards of your rights, you should consider we never delete this data.
 
 **If you include personal data of other individuals (us included) in your communication, this privacy notice will equally apply towards them, as they have the same rights as you do**. It is very likely that you will not be able to use some of your rights then: it could prevent those other individuals to use their own rights to access and control that personal data.
 
 If you request access to your data, we will simply give back to you what you sent, in the format you chose to send it in. We will also provide any metadata associated with it in a common, machine-readable format, usually [CSV](https://en.wikipedia.org/wiki/Comma-separated_values) or [JSON](https://en.wikipedia.org/wiki/JSON).
-
-If you do not want us to have, store or simply process your personal data, do not send it to us - directly or indirectly.
 
 ### Any other service
 
