@@ -85,6 +85,8 @@ If a part of our website has a configurable feature that is to be saved across r
 
 If parts of our websites have different needs, they will have their own privacy notice. We will make it visually and technically clear that you are in another part of the website: a different layout, or different sub-domain, another colour theme, or anything else which is relevant. We may also combine any number of those.
 
+In case hosting with another entity is needed for a specific kind of resource, per example for downloadable files, we will not use the same base domain as the content you are viewing at that time. We will give an explicit indication that it is the case in the wording surrounding the link, per example "*You can find this file on Gitlab*". We want to clearly indicate that the request will be made on another server, which could be invisible to you.
+
 **We want to always give you explicit signs and messages of what is happening, and that your personal data may be used. We do not assume we know what you want, or know what you expect.**
 
 ### On any server of those websites
@@ -94,16 +96,14 @@ For each request made, we keep a record of the following information:
 - The [IP address](https://en.wikipedia.org/wiki/IP_address)
 - The [HTTP Header](https://en.wikipedia.org/wiki/List_of_HTTP_header_fields) User-Agent
 
-None of those are direct identifiers. The IP address is about your internet connection, and the HTTP header is about your browser. While they do not directly identify you, they can be put together with other data to that end. Be aware that some organisations use them to track you or identify you.
+The IP address is about your internet connection, and the HTTP header is about your browser. While they do not directly identify you, they can be put together with other data to that end. Be aware that some organisations use them to track you or identify you.
 
-We collect this data for two purposes:
+As per [Article 11(2)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02016R0679-20160504), we inform you that this data is not personal data to us: we cannot identify individuals with it, and we do not collect any other non-personal data that could allow us to identify individuals if used together.
+
+Even if we do not have to, we want to inform you how we use this data. We collect it for two purposes:
 
 - To keep ourselves and our users safe, we need to be able to detect patterns of malicious activity, and block the source of it. We generate statistics, trends and visualisation of that traffic to that end. For this, we use the IP address and HTTP Header.
 - To keep ourselves reachable and visible, we need to know which browsers try to use our website and try if it will display correctly in them. For this, we use the HTTP Header.
-
-This data is not personal data to us: we simply cannot identify individuals with it alone. We do not collect any other information that could be used to that end.
-
-In case another type of hosting is needed for a specific resource, per example for downloadable files, we will not use the same base domain as the content you are viewing at that time. We will give an explicit indication that it is the case in the wording surrounding the link, per example "*You can find this file on Gitlab*". We want to clearly indicate that the request will be made on another server, which could be invisible to you in case of file downloading per example. This policy will not apply to regular Web links, where we point to another website page for regular viewing, like Wikipedia.
 
 ### Via our contact services
 
