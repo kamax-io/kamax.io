@@ -29,11 +29,12 @@ To be able to use your rights, you need to have the following information:
 
 This is us:
 
-- Trade name: Kamax S.à r.l.
-- Also known as: Kamax, Kamax.io
-- [R.C.S. Number](https://www.lbr.lu/mjrcs): B198779
+- Legal name: Kamax
+- Legal for: Société à Responsabilité Limitée (Business organization with limited responsabilities)
+- Also known as: Kamax S.à r.l, Kamax SARL, Kamax.io, kamax-io
+- [R.C.S.](https://www.lbr.lu/mjrcs) Number: B198779
 
-Our registered address is:
+Our head office address is:
 
 - Route d'Arlon, 14  
 - 8410 Steinfort  
@@ -49,6 +50,8 @@ For all your privacy needs, you can use our dedicated Email address: [legalmaste
 
 **You have the right to contact us by any means you see fit that we give on this website, regardless of what we prefer you to use.  We take every request seriously. You do not have to sound smart when talking to us, we will treat you as the most important person in the room regardless.**
 
+## Data requests
+
 For any request involving personal data, we must be able to identify you. In your request, please include the Identity/Address/ID/Name that identify you. We will contact you using that Identity, confirm that the request did come from the individual controlling the identifier, and proceed with the request.
 
 We cannot act on those requests if we cannot identify you. We must be sure that  you are indeed the individual to which the data belongs to. If you no longer have access to the identifier you want to use, let us know and we will do our best to try to identify you another way, if we can.
@@ -57,7 +60,7 @@ We cannot act on those requests if we cannot identify you. We must be sure that 
 
 ### Our mindset
 
-Privacy is a founding value for our organisation, and we want to ensure individuals are safe, protected, and that their rights are respected. **Your privacy is our business model.**
+Privacy is a founding value of our organisation, and we want to ensure individuals are safe, protected, and that their rights are respected. **Your privacy is our business model.**
 
 Laws are different in each country, and you might not be able to use GDPR rights as they do not apply to you, but still want to contact us or use our services. We will explain our mindset and our practices so you can make an informed choice.
 
@@ -100,23 +103,28 @@ The IP address is about your internet connection, and the HTTP header is about y
 
 As per [Article 11(2)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02016R0679-20160504), we inform you that this data is not personal data to us: we cannot identify individuals with it, and we do not collect any other non-personal data that could allow us to identify individuals if used together.
 
-Even if we do not have to, we want to inform you how we use this data. We collect it for two purposes:
+Even if it is not personal data, we want to be transparent and inform you how we use this data.  
+We collect it for two purposes:
 
-- To keep ourselves and our users safe, we need to be able to detect patterns of malicious activity, and block the source of it. We generate statistics, trends and visualisation of that traffic to that end. For this, we use the IP address and HTTP Header.
-- To keep ourselves reachable and visible, we need to know which browsers try to use our website and try if it will display correctly in them. For this, we use the HTTP Header.
+- To keep ourselves and our users safe: we need to be able to detect patterns of malicious activity, and block the source of it. We generate statistics, trends and visualisation of that traffic to that end. For this, we use the IP address and HTTP Header.
+- To keep ourselves reachable and visible: we need to know which browsers are used to visit our website and check that it is displayed properly in them. For this, we use the HTTP Header.
 
 ### Via our contact services
 
 We provide contact services, like Email, that you can use to interact with us. These services are only accessible by using another service provider, or by connecting directly to them yourself. These services accept any kind of data, which you made the explicit choice to send for whatever intent you had.
 
 The lawful basis for that processing is: **Legitimate Interest**.  
-You made the explicit choice to send us the data, and you want us to use the data you sent.
+You made the explicit choice:
+
+- To send us the data.
+- Of the format you sent it in.
+- To have it processed, being the purpose for sending it.
 
 We do not have fixed retention periods for those services: we do not know in advance what will be sent to us and for how long we would need to keep it. In regards of your rights, you should consider we never delete this data.
 
 **If you include personal data of other individuals (us included) in your communication, this privacy notice will equally apply towards them, as they have the same rights as you do**. It is very likely that you will not be able to use some of your rights then: it could prevent those other individuals to use their own rights to access and control that personal data.
 
-If you request access to your data, we will simply give back to you what you sent, in the format you chose to send it in. We will also provide any metadata associated with it in a common, machine-readable format, usually [CSV](https://en.wikipedia.org/wiki/Comma-separated_values) or [JSON](https://en.wikipedia.org/wiki/JSON).
+If you request access to your data, we will simply give back to you what you sent, in the format you chose to send it in which you deemed appropriate at the time. We will also provide any metadata associated with it in a common, machine-readable format, usually [CSV](https://en.wikipedia.org/wiki/Comma-separated_values) or [JSON](https://en.wikipedia.org/wiki/JSON).
 
 ### Any other service
 
